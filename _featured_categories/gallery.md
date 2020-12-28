@@ -67,7 +67,7 @@ description: >
     </div>
   </div>
 
-  <div class="item1">
+  <!-- <div class="item1">
       <div class="card">
         <img src="/assets/img/yourteam.png" alt="Avatar" style="width:100%; height: 180px;">
         <div class="container">
@@ -75,7 +75,7 @@ description: >
           <p>To be part of your team</p> 
         </div>
       </div>
-    </div>
+    </div> -->
     
 </div>
 
