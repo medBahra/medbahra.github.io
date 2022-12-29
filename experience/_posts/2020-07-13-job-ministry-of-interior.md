@@ -28,11 +28,11 @@ noindex: true
 
 ### Frameworks used
  
-  ![](/assets/img/frameworkpath.png)
+  ![](/assets/img/framework_interior.png)
 
 ### Technical environment
 
-  ![](/assets/img/techno.png)
+  ![](/assets/img/technical_inter.png)
 
 
 
