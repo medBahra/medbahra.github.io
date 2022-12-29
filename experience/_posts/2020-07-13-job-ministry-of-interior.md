@@ -26,13 +26,13 @@ noindex: true
 - Development of an application for recovering lost IDCS (Identifiant Digital, Civil et Social) in order to subscribe in the RSU System (Registre Social Unifié), and I had the same responsibilities cited in the projects above.
 
 
-### Frameworks used
+### Frameworks and libraries used
  
-  ![](/assets/img/framework_interior.png)
+  ![](/assets/img/Framworks_2.png)
 
-### Technical environment
+### Technical environment used
 
-  ![](/assets/img/technical_inter.png)
+  ![](/assets/img/technical_inter_2.png)
 
 
 
