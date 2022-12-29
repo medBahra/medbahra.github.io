@@ -60,8 +60,8 @@ menu:
     url:               /books/
   - title:             Gallery
     url:               /gallery/
-  - title:             Ph.D
-    url:               /phd/
+  # - title:             Ph.D
+    # url:               /phd/
   - title:             A little gift
     url:               /about/
 
