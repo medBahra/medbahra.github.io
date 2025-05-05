@@ -4,8 +4,7 @@ image: /assets/img/blog/hydejack-8.png
 
 # About
 
-To say thank you for visiting my portfolio, I would like to highlight a simple chrome pluggin I developed, that you may find 
-useful when you want to switch between two tab, 
+To say thank you for visiting my portfolio, I would like to highlight a simple chrome pluggin I developed back in the days when i was struggling with Tenths opened tabs in chrome browser, it helps switching between two tabs, 
 {:.lead}
 
 > Link to the chrome web store [extension].
