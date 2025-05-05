@@ -7,17 +7,18 @@ description: >
 noindex: true
 ---
 
-The curriculum of this program cover different modules, hereafter some of them:
+Following is some of my work research:
 
-| Content of the program |
--||-
-| didactic                                             | 
-| Administration of Network systems                    | 
-| Operational research                                 |
-| Educational information and communication technique  | 
-| Descriptive and inferential statistics               | 
-| Project Managmenet                                   | 
-| Object-oriented programming and C++                  | 
-| Java Programming                                     | 
-| Database management Systems                          | 
-| Micro-teachnig                                       |
+> Smart city: an advanced framework for analyzing public sentiment orientation toward recycled water [1].
+{:.lead}
+
+> Applying Fuzzy Logic and Neural Network in Sentiment Analysis for Fake News Detection: Case of Covid-19 [2].
+{:.lead}
+
+> Sentiment Analysis in Social Media with a Semantic Web Based Approach: Application to the French Presidential Elections 2017 [3].
+{:.lead}
+
+
+[1]: http://dx.doi.org/10.11591/ijece.v14i1.pp1015-1026
+[2]: http://dx.doi.org/10.1007/978-3-030-90087-8_19
+[3]: http://dx.doi.org/10.1007/978-3-319-74500-8_44
