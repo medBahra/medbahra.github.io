@@ -40,6 +40,38 @@ description: >
 
   <div class="item1">
     <div class="card">
+      <img src="/assets/img/inde2.jpg" alt="Avatar" style="width:100%; height: 180px;" >
+      <div class="container">
+        <h4><b>Ph.D in Artificial Intelligence and Computer Science</b></h4> 
+        <p>Committee member</p> 
+      </div>
+    </div>
+  </div>
+
+
+  <div class="item1">
+    <div class="card">
+      <img src="/assets/img/inde3.jpg" alt="Avatar" style="width:100%; height: 180px;" >
+      <div class="container">
+        <h4><b>Indian festival</b></h4> 
+        <p>Bangalore Karaga Festival</p> 
+      </div>
+    </div>
+  </div>
+  
+
+  <div class="item1">
+    <div class="card">
+      <img src="/assets/img/phd.JPG" alt="Avatar" style="width:100%; height: 180px;" >
+      <div class="container">
+        <h4><b>Ph.D in Artificial Intelligence and Computer Science</b></h4> 
+        <p>Committee member</p> 
+      </div>
+    </div>
+  </div>
+
+  <div class="item1">
+    <div class="card">
       <img src="/assets/img/estclass.PNG" alt="Avatar" style="width:100%; height: 180px;" >
       <div class="container">
         <h4><b>Higher School of Technology</b></h4> 
