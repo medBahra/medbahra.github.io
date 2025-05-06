@@ -44,7 +44,7 @@ description: >
 
   <div class="item1">
     <div class="card">
-      <img src="/assets/img/inde2.jpg" alt="Avatar" style="width:100%; height: 180px;" >
+      <img src="/assets/img/inde2.jpg" alt="Avatar" style="width:100%; height: 227px;" >
       <div class="container">
         <h4 class="cardhight"><b>Vidhana Soudha, BANGALORE - INDIA</b></h4> 
         <p>( lit. 'Legislative House') is a building in Bangalore, India which serves as the seat of the state legislature of Karnataka.</p> 
