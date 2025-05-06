@@ -46,8 +46,8 @@ description: >
     <div class="card">
       <img src="/assets/img/inde2.jpg" alt="Avatar" style="width:100%; height: 180px;" >
       <div class="container">
-        <h4 class="cardhight"><b>Vidhana Soudha</b></h4> 
-        <p>Vidhana Soudha ( lit. 'Legislative House') is a building in Bangalore, India which serves as the seat of the state legislature of Karnataka.</p> 
+        <h4 class="cardhight"><b>Vidhana Soudha, BANGALORE - INDIA</b></h4> 
+        <p>( lit. 'Legislative House') is a building in Bangalore, India which serves as the seat of the state legislature of Karnataka.</p> 
       </div>
     </div>
   </div>
@@ -55,20 +55,19 @@ description: >
 
   <div class="item1">
     <div class="card">
-      <img src="/assets/img/inde3.jpg" alt="Avatar" style="width:100%; height: 180px;" >
+      <img src="/assets/img/inde3.jpg" alt="Avatar" style="width:100%; " >
       <div class="container">
-        <h4 class="cardhight"><b>Indian festival</b></h4> 
+        <h4 class="cardhight"><b>Indian festival, BANGALORE - INDIA</b></h4> 
         <p>Bangalore Karaga Festival</p> 
       </div>
     </div>
   </div>
-  
 
   <div class="item1">
     <div class="card">
-      <img src="/assets/img/phd.JPG" alt="Avatar" style="width:100%; height: 180px;" >
+      <img src="/assets/img/phd.JPG" alt="Avatar" style="width:100%; " >
       <div class="container">
-        <h4 class="cardhight"><b>Ph.D in Artificial Intelligence and Computer Science</b></h4> 
+        <h4 class="cardhight"><b>Ph.D in Artificial Intelligence and Computer Science, TANGIER</b></h4> 
         <p>Committee member</p> 
       </div>
     </div>
@@ -76,29 +75,30 @@ description: >
 
   <div class="item1">
     <div class="card">
-      <img src="/assets/img/estclass.PNG" alt="Avatar" style="width:100%; height: 180px;" >
+      <img src="/assets/img/pfe.jpg" alt="Avatar" style="width:100%; ">
       <div class="container">
-        <h4 class="cardhight"><b>Higher School of Technology</b></h4> 
-        <p>My Statistics & BI class</p> 
+        <h4 class="cardhight"><b>Faculty of Science and Techniques, TANGIER</b></h4> 
+        <p>My colleagues during the final-year project</p> 
       </div>
     </div>
   </div>
 
   <div class="item1">
     <div class="card">
-      <img src="/assets/img/ens.jpg" alt="Avatar" style="width:100%; height: 180px;">
+      <img src="/assets/img/ens.jpg" alt="Avatar" style="width:100%; ">
       <div class="container">
-        <h4 class="cardhight"><b>"Ecole Normale Supèrieure"</b></h4> 
+        <h4 class="cardhight"><b>"Ecole Normale Supèrieure", MARRAKECH</b></h4> 
         <p>My Computer Science Teaching class</p> 
       </div>
     </div>
   </div>
+
   <div class="item1">
     <div class="card">
-      <img src="/assets/img/pfe.jpg" alt="Avatar" style="width:100%; height: 180px;">
+      <img src="/assets/img/estclass.PNG" alt="Avatar" style="width:100%; " >
       <div class="container">
-        <h4 class="cardhight"><b>Faculty of Science and Techniques</b></h4> 
-        <p>My colleagues of End-of-year project</p> 
+        <h4 class="cardhight"><b>Higher School of Technology, AGADIR</b></h4> 
+        <p>My Statistics & Business intelligence class</p> 
       </div>
     </div>
   </div>
