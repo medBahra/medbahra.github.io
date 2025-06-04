@@ -43,7 +43,7 @@ logo:                  /assets/img/1.jpeg
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   name:                Mohamed BAHRA
-  email:               bahramohamed.me@gmail.com
+  email:               bahra002@gmail.com
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
@@ -74,7 +74,7 @@ menu:
 #     url:               /cookies-policy/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2020. BAHRA Mohamed.
+copyright:             © 20205. BAHRA Mohamed.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
